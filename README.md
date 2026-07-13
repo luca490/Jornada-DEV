@@ -1,4 +1,4 @@
-# 📚 TOTVS Protheus Studies
+# 📚 Jornada-DEV
 
 Repositório dedicado ao estudo e à prática das tecnologias do ecossistema TOTVS, reunindo anotações, exercícios, exemplos de código e projetos desenvolvidos ao longo do aprendizado.
 
