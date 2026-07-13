@@ -4,3 +4,4 @@ FUNCTION Hello()
     Alert("Ola, " + cNome)
     //OBS: A função Alert exibe uma mensagem de alerta na tela do usuário.
 RETURN
+''
