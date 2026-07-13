@@ -14,3 +14,5 @@ Centralizar e documentar minha evolução nos estudos das principais tecnologias
 - TLPP
 - Git & GitHub
 - Visual Studio Code
+
+Criado por: Lucas de Lima Oliveira
