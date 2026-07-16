@@ -1,0 +1,5 @@
+# Executáveis gerados pelo Harbour
+*.exe
+
+# Configurações do VS Code
+.vscode/
