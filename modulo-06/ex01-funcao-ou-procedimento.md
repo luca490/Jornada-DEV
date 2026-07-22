@@ -1,0 +1,6 @@
+QOut("Str() - Função: retorna string")
+QOut("QOut() - Procedimento: exibe texto")
+QOut("Date() - Função: retorna data")
+QOut("Len() - Função: retorna tamanho")
+QOut("Upper() - Função: retorna maiúsculas")
+QOut("ClearScreen() - Procedimento: limpa a tela")
