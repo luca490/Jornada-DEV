@@ -1,5 +1,5 @@
 #Include "Protheus.ch"
-
+//---------------------
 User Function STTZZ1()
 
     Local cAlias := "ZZ1"
