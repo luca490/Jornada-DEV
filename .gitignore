@@ -3,6 +3,6 @@
 _testes/
 .vscode/
 *.exe
-
+*.BAK
 # Configurações do VS Code
 .vscode/
